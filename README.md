@@ -51,19 +51,11 @@ Here are some ideas to get you started:
 
 ### **Libraries / Frameworks**
 
-![](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=ffffff)
-
 ![](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffffff)
-
-![](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=ffffff)
 
-![](https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=ffffff)
-
 ![](https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=ffffff)
-
-![](https://img.shields.io/badge/hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=ffffff)
 
 ### **Operating System**
 
