@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)
 
-![](https://img.shields.io/badge/windows11-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)
+![](https://img.shields.io/badge/windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)
 
 ### **Academic**
 
