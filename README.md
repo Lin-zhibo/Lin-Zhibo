@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
 
-![](https://img.shields.io/badge/NodeJS-5FA04E?style=for-the-badge&logo=c&logoColor=FFFFFF)
+![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF)
 
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 
