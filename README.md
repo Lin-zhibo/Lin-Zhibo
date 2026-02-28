@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffffff)
 
-![](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=ffffff)
-
 ![](https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=ffffff)
 
 ### **Operating System**
 
 ![](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)
+
+![](https://img.shields.io/badge/kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)
 
@@ -69,4 +69,4 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/arxiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=ffffff)
 
-![](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=ffffff)
+![](https://img.shields.io/badge/overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=ffffff)
