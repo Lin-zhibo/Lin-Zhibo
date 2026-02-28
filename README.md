@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ### **Coding Language**
 
-![](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=FFFFFF)
+![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 
-![](https://img.shields.io/badge/cpp-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF)
+![](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
 
-![](https://img.shields.io/badge/C-6B8096?style=plastic&logo=c&logoColor=FFFFFF)
+![](https://img.shields.io/badge/C-6B8096?style=for-the-badge&logo=c&logoColor=FFFFFF)
 
-![](https://img.shields.io/badge/TypeScript-3178C6?style=social&logo=typescript&logoColor=FFFFFF)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 
 ### **Web Browser**
 
