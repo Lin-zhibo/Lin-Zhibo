@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
 
-![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF)
+![](https://img.shields.io/badge/C-6B8096?style=for-the-badge&logo=c&logoColor=FFFFFF)
 
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/google%20chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)
 
-![](https://img.shields.io/badge/FireFox?style=for-the-badge&logo=firefoxbrowser&logoColor=FFFFFF)
+![](https://img.shields.io/badge/FireFox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=FFFFFF)
 
 ![](https://img.shields.io/badge/microsoft%20edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=FFFFFF)
 
