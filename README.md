@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/google%20chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)
 
-![](https://img.shields.io/badge/FireFox?style=for-the-badge&logo=firefoxbrowser&logoColor=FFFFFF)
+![](https://img.shields.io/badge/FireFox?style=for-the-badge&logo=firefox&logoColor=FFFFFF)
 
 ![](https://img.shields.io/badge/microsoft%20edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=FFFFFF)
 
