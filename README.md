@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=python&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=python&logoColor=white)
+
