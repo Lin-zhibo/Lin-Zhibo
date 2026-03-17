@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### **Development Tools**
 
-![](https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=ffffff)
+![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![](https://img.shields.io/badge/gnu%20bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff)
 ![](https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=ffffff)
 ![](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=ffffff)
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
 ![](https://img.shields.io/badge/Github_copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=ffffff)
 ![](https://img.shields.io/badge/claude_code-D97757?style=for-the-badge&logo=claude&logoColor=ffffff)
+![](https://img.shields.io/badge/cursor-000000?style=for-the-badge&logo=cursor&logoColor=ffffff)
 ![](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 ![](https://img.shields.io/badge/opencode-000000?style=for-the-badge&logo=opencode&logoColor=ffffff)
 
