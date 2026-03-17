@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=ffffff)
 ![](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=ffffff)
 ![](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
 ![](https://img.shields.io/badge/Github_copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=ffffff)
 ![](https://img.shields.io/badge/claude_code-D97757?style=for-the-badge&logo=claude&logoColor=ffffff)
 ![](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
