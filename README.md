@@ -47,19 +47,15 @@ Hi there 👋
 
 ### GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Lin-zhibo&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Lin-zhibo&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lin-zhibo&theme=dark&hide_border=true" alt="GitHub streak" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lin-zhibo&theme=transparent" alt="GitHub profile summary" />
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Lin-zhibo&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lin-zhibo&theme=transparent" alt="GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-zhibo&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lin-zhibo&theme=transparent" alt="Top languages" />
     </td>
   </tr>
 </table>
