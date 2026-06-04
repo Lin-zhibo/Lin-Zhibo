@@ -115,15 +115,11 @@ Hi there 👋
 
 <div align="center">
 
-### 3D Contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/profile-3d-contrib/profile-green-animate.svg" />
   <img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </picture>
-
-### Metrics
 
 <table>
   <tr>
