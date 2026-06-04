@@ -123,23 +123,20 @@ Hi there 👋
   <img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </picture>
 
-<img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/followup.indepth.svg" alt="Issues and pull requests status" />
-
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/languages.indepth.svg" alt="Language metrics" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/repositories.pinned.svg" alt="Pinned repositories metrics" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/isocalendar.fullyear.svg" alt="Isometric calendar metrics" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/stars.svg" alt="Recently starred metrics" /></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/calendar.full.svg" alt="Full contributions calendar" /></td>
+    <td><img src="https://repobeats.axiom.co/api/embed/39b19a81cc34f76f12ea0d2e203d53044dfca162.svg" alt="Repobeats analytics image" /></td>
   </tr>
 </table>
 
-![Repobeats analytics image](https://repobeats.axiom.co/api/embed/39b19a81cc34f76f12ea0d2e203d53044dfca162.svg "Repobeats analytics image")
+<img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/followup.indepth.svg" alt="Issues and pull requests status" />
+
+<img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/calendar.full.svg" alt="Full contributions calendar" />
 
 <img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/icon.png" alt="Profile icon" />
 
