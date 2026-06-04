@@ -129,14 +129,17 @@ Hi there 👋
     <td><img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/repositories.pinned.svg" alt="Pinned repositories metrics" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/stars.svg" alt="Recently starred metrics" /></td>
-    <td><img src="https://repobeats.axiom.co/api/embed/39b19a81cc34f76f12ea0d2e203d53044dfca162.svg" alt="Repobeats analytics image" /></td>
+    <td colspan="2"><img width="100%" src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/followup.indepth.svg" alt="Issues and pull requests status" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img width="100%" src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/calendar.full.svg" alt="Full contributions calendar" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img width="100%" src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/stars.svg" alt="Recently starred metrics" /></td>
   </tr>
 </table>
 
-<img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/followup.indepth.svg" alt="Issues and pull requests status" />
-
-<img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/calendar.full.svg" alt="Full contributions calendar" />
+<img width="100%" src="https://repobeats.axiom.co/api/embed/39b19a81cc34f76f12ea0d2e203d53044dfca162.svg" alt="Repobeats analytics image" />
 
 <img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/icon.png" alt="Profile icon" />
 
