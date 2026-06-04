@@ -47,18 +47,9 @@ Hi there 👋
 
 ### GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lin-zhibo&theme=transparent" alt="GitHub profile summary" />
+<img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/base.svg" alt="GitHub metrics overview" />
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lin-zhibo&theme=transparent" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lin-zhibo&theme=transparent" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lin-zhibo&theme=transparent" alt="GitHub profile summary" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lin-zhibo&theme=xcode&bg_color=FF000000&hide_border=true" />
@@ -133,8 +124,6 @@ Hi there 👋
 </picture>
 
 ### Metrics
-
-<img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/base.svg" alt="GitHub metrics overview" />
 
 <table>
   <tr>
