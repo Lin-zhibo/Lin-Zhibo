@@ -1,11 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&width=520&lines=Hi%2C+I'm+Lin-Zhibo;Python+%7C+C;Always+be+a+student%2C+always+be+curious;Keep+building%2C+keep+learning&center=true&size=27)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&width=1000&lines=Hi%2C+I'm+Lin-Zhibo;Python+%7C+C;Always+be+a+student%2C+always+be+curious;Keep+building%2C+keep+learning&center=true&size=27" alt="Typing SVG" width="100%" />
+</a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/developer.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/coding.gif" alt="Developer animation" height="240" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/cxyduck.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/cxyduck.gif" />
+  <img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/cxyduck.gif" alt="Developer animation" height="240" />
 </picture>
 
 <div>&nbsp;</div>

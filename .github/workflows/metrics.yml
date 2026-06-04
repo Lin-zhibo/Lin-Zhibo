@@ -69,7 +69,7 @@ jobs:
             gnuplot
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 6
+          plugin_languages_limit: 10
           plugin_languages_analysis_timeout: 15
 
       - name: Pinned repositories
@@ -80,7 +80,7 @@ jobs:
           user: ${{ github.repository_owner }}
           base: ""
           plugin_repositories: yes
-          plugin_repositories_pinned: 2
+          plugin_repositories_pinned: 1
 
       - name: Recently starred repositories
         uses: lowlighter/metrics@latest
@@ -90,4 +90,4 @@ jobs:
           user: ${{ github.repository_owner }}
           base: ""
           plugin_stars: yes
-          plugin_stars_limit: 10
+          plugin_stars_limit: 4
