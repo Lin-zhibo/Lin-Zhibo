@@ -129,13 +129,14 @@ Hi there 👋
     <td><img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/repositories.pinned.svg" alt="Pinned repositories metrics" /></td>
   </tr>
   <tr>
-    <td colspan="2"><img width="100%" src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/followup.indepth.svg" alt="Issues and pull requests status" /></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img width="100%" src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/calendar.full.svg" alt="Full contributions calendar" /></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img width="100%" src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/stars.svg" alt="Recently starred metrics" /></td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/followup.indepth.svg" alt="Issues and pull requests status" />
+      <br />
+      <img width="100%" src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/calendar.full.svg" alt="Full contributions calendar" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/stars.svg" alt="Recently starred metrics" />
+    </td>
   </tr>
 </table>
 
