@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=Hi%2C+I'm+Lin-Zhibo;Python+%7C+C%2B%2B+%7C+TypeScript;Keep+building%2C+keep+learning&center=true&size=27)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=Hi%2C+I'm+Lin-Zhibo;Python+%7C+C;Always+be+a+student%2C+always+be+curious;Keep+building%2C+keep+learning&center=true&size=27)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/coding.gif" />
@@ -31,7 +31,7 @@
 
 ### About Me
 
-Hi, I'm **Lin-Zhibo**.
+Hi there 👋
 
 - I work with Python, C/C++, and TypeScript.
 - I use Linux, Windows, Docker, Git, VS Code, Vim, Obsidian, and modern AI coding tools.
