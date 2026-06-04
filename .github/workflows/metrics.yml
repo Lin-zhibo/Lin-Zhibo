@@ -1,0 +1,73 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Base profile
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          config_timezone: Asia/Shanghai
+          base: "header, activity, community, repositories"
+          plugin_lines: yes
+          plugin_introduction: yes
+          plugin_gists: yes
+
+      - name: Full-year isometric calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Language analysis
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/languages.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size
+          plugin_languages_limit: 6
+          plugin_languages_analysis_timeout: 15
+
+      - name: Pinned repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/repositories.pinned.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 2
+
+      - name: Recently starred repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics/stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 10

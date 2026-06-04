@@ -1,34 +1,95 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Lin-zhibo/Lin-Zhibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=Hi%2C+I'm+Lin-Zhibo;Python+%7C+C%2B%2B+%7C+TypeScript;Keep+building%2C+keep+learning&center=true&size=27)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/developer.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/coding.gif" alt="Developer animation" height="240" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>&nbsp;</div>
 
-### **Coding Language**
+<div>
+  <a href="https://github.com/Lin-zhibo"><img src="https://img.shields.io/badge/GitHub-Lin--zhibo-181717?logo=github" alt="GitHub" /></a>&emsp;
+  <img src="https://komarev.com/ghpvc/?username=Lin-zhibo&label=Views&color=orange&style=flat" alt="Profile views" />
+</div>
+
+<div>&nbsp;</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<table>
+  <tr>
+    <td>
+
+### About Me
+
+Hi, I'm **Lin-Zhibo**.
+
+- I work with Python, C/C++, and TypeScript.
+- I use Linux, Windows, Docker, Git, VS Code, Vim, Obsidian, and modern AI coding tools.
+- I am interested in practical engineering, developer tools, machine learning, and clear technical notes.
+
+    </td>
+  </tr>
+</table>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/hr.gif" alt="" />
+
+<div align="center">
+
+### GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Lin-zhibo&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Lin-zhibo&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lin-zhibo&theme=dark&hide_border=true" alt="GitHub streak" />
+</picture>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Lin-zhibo&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-zhibo&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lin-zhibo&theme=xcode&bg_color=FF000000&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Lin-zhibo&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lin-zhibo&theme=xcode&bg_color=FF000000&hide_border=true" alt="GitHub activity graph" />
+</picture>
+
+</div>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/hr.gif" alt="" />
+
+<div align="center">
+
+### Coding Language
 
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/C-6B8096?style=for-the-badge&logo=c&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 
-### **Web Browser**
+### Web Browser
 
 ![](https://img.shields.io/badge/google%20chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/FireFox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=FFFFFF)
 ![](https://img.shields.io/badge/microsoft%20edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=FFFFFF)
 
-### **Development Tools**
+### Development Tools
 
 ![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![](https://img.shields.io/badge/gnu%20bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff)
@@ -44,19 +105,52 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 ![](https://img.shields.io/badge/opencode-000000?style=for-the-badge&logo=opencode&logoColor=ffffff)
 
-### **Libraries / Frameworks**
+### Libraries / Frameworks
 
 ![](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=ffffff)
 ![](https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=ffffff)
 
-### **Operating System**
+### Operating System
 
 ![](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)
 ![](https://img.shields.io/badge/kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=ffffff)
 ![](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=ffffff)
 ![](https://img.shields.io/badge/windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff)
 
-### **Academic**
+### Academic
 
 ![](https://img.shields.io/badge/arxiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=ffffff)
 ![](https://img.shields.io/badge/overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=ffffff)
+
+</div>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/hr.gif" alt="" />
+
+<div align="center">
+
+### 3D Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/profile-3d-contrib/profile-green-animate.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</picture>
+
+### Metrics
+
+<img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/base.svg" alt="GitHub metrics overview" />
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/languages.indepth.svg" alt="Language metrics" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/repositories.pinned.svg" alt="Pinned repositories metrics" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/isocalendar.fullyear.svg" alt="Isometric calendar metrics" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/github-metrics/stars.svg" alt="Recently starred metrics" /></td>
+  </tr>
+</table>
+
+<img src="https://cdn.jsdelivr.net/gh/Lin-zhibo/Lin-Zhibo/assets/images/icon.png" alt="Profile icon" />
+
+</div>
